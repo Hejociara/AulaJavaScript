@@ -6,3 +6,6 @@ if (chute == numeroSecreto){
     alert ('Muito bem! Você acertou!!!(29)')
     console.log('Muito bem! Você acertou!!!(29)');
 }
+else {
+    alert ('Você errou :(')
+}
